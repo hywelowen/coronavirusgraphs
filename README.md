@@ -1,4 +1,6 @@
 # coronavirusgraphs
+Updated 9th March 23:30 (GMT) with John Hopkins data 9th March update.
+
 Jupyter Notebook for generating COVID-19 plots using manually-collected and Johns Hopkins data. Johns Hopkins CSSE data obtained from https://github.com/CSSEGISandData/COVID-19
 
 This is a repository for Jupyter Notebooks to analyse publicly-available data on COVID-19 (2019 Novel Coronavirus) confirmed infections. To run them, you will need Anaconda 3 (Python 3.8).
