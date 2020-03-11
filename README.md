@@ -1,5 +1,5 @@
 # coronavirusgraphs
-Updated 10th March 21:00 (GMT) with John Hopkins data 10th March update, and access to GOV.UK data.
+Updated 11th March 07:00 (GMT) with John Hopkins data 11th March update, and access to GOV.UK data.
 
 Jupyter Notebook for generating COVID-19 plots using manually-collected, Johns Hopkins and GOV.UK data.  
 Johns Hopkins CSSE data obtained from https://github.com/CSSEGISandData/COVID-19  
